@@ -1,4 +1,4 @@
-# Analyze-the-home-page-loading-of-www.sjtu.edu.cn-template
+# Analyze-the-home-page-loading-of-www.sjtu.edu.cn
 ## Searching for the IP address
 
    After inputting "www.sjtu.edu.cn", the browser will search for the IP address correspnding with
